@@ -1,5 +1,5 @@
 module.exports = {
-  prefix: ".",
+  prefix: "IQ#",
   devs: ["635933198035058700"],
   owner: "635933198035058700",
   youtube: {
@@ -25,7 +25,7 @@ module.exports = {
     },
   },
   bot: {
-    token: "" || process.env.token,
+    token: "OTMwNzkwMTAzODM0NTYyNjEx.Yd6_1Q.MASLRitoA53fBR_8V8mwI6d1rbg" || process.env.token,
     id: `${process.env.DISCORD_OAUTH_CLIENT_ID}`,
     invite: `https://discord.com/api/oauth2/authorize?client_id=${process.env.DISCORD_OAUTH_CLIENT_ID}&permissions=8&scope=bot`,
     client: {
